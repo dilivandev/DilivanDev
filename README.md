@@ -3,7 +3,7 @@
 🚀 **Programador Full stack | Especialista em .NET **  
 🇧🇷 Brazil
 
-I build **Nunca é só programar, e sim resolver poblemas trasendo soluções**.
+**Nunca é só programar, e sim resolver poblemas trasendo soluções**.
 
 
 
