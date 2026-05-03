@@ -1,6 +1,6 @@
 # Olá 👋, Eu Sou Dilivan Fernandes
 
-🚀 **Programador Full stack | Especialista em .NET **  
+🚀 **Programador Full stack  Especialista em .NET **  
 🇧🇷 Brazil
 
 
